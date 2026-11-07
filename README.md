@@ -31,7 +31,6 @@ Pustaka/library Python yang dibutuhkan:
    cd supangat-qr-generator-from-excel-csv
 
 ```
----
 
 2. **Buat file dependensi (`requirements.txt`)** di folder utama dengan isi berikut:
 ```text
@@ -81,12 +80,5 @@ supangat-qr-generator-from-excel-csv/
 ├── qr.py               # Script utama aplikasi Python (Tkinter & Pandas)
 ├── requirements.txt    # Daftar pustaka/library Python
 └── README.md           # Dokumentasi proyek
-
-```
-
-Kontribusi, saran, atau pelaporan *bug* sangat dipersilakan! Silakan buat *Pull Request* atau buka *Issue* pada repository ini.
-
-
-```
 
 ```
