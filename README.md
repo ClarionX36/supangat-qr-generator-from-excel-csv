@@ -31,6 +31,7 @@ Pustaka/library Python yang dibutuhkan:
    cd supangat-qr-generator-from-excel-csv
 
 ```
+---
 
 2. **Buat file dependensi (`requirements.txt`)** di folder utama dengan isi berikut:
 ```text
