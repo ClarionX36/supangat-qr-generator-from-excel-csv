@@ -1,4 +1,3 @@
-```markdown
 # SUPANGAT QR Code Generator
 
 Aplikasi desktop berbasis Python menggunakan pustaka **Tkinter** yang dirancang untuk memudahkan pembuatan QR Code secara massal (*bulk*) langsung dari file **Excel (.xlsx, .xls)** atau **CSV**.
