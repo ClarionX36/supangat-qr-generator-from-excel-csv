@@ -84,10 +84,6 @@ supangat-qr-generator-from-excel-csv/
 
 ```
 
----
-
-## 🤝 Kontribusi
-
 Kontribusi, saran, atau pelaporan *bug* sangat dipersilakan! Silakan buat *Pull Request* atau buka *Issue* pada repository ini.
 
 
